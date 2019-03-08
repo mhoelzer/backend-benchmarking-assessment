@@ -6,7 +6,7 @@ from anagrams import find_anagrams
 
 class TestAnagrams(unittest.TestCase):
     """
-        Bencharmking test case. We test actual functionality of find_anagrams
+        Benchmarking test case. We test actual functionality of find_anagrams
         with doctests, which is why this test case excludes those unit tests.
     """
     def setUp(self):

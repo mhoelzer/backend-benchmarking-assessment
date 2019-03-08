@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=dylan.jpg/>
+</p>
+
 # Assessment: I don't have time for this
 
 Imagine that you've been working on this program on a team of developers. You've
