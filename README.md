@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=dylan.jpg/>
+  <img src=time.jpg/>
 </p>
 
 # Assessment: I don't have time for this
