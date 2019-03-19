@@ -3,7 +3,6 @@
 </p>
 
 # Assessment: I don't have time for this
-
 Imagine that you've been working on this program on a team of developers. You've
 done all the right things up until now, including writing [doctests](https://docs.python.org/2.7/library/doctest.html)[1] 
 and [unitests](tests/test_anagrams.py).
@@ -19,6 +18,11 @@ again. If the problem isn't obvious to you by examining the `anagrams.py`
 module, consider using the profiling techniques that you learned about in the
 lesson to pin down the problem. Using a debugger may also help you to get a
 handle on exactly _why_ things are slow.
+
+To run the program and see how slow everything is, enter this into the terminal:
+```
+rerun "python -m unittest discover"
+```
 
 ## Skipped unit test
 If you look at the test case, you'll notice that the `test_long` unit test is
