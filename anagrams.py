@@ -8,7 +8,7 @@
     for an arbitrary list of strings.
 
 """
-__author__ = "???"
+__author__ = "mhoelzer"
 
 import sys
 
